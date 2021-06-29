@@ -788,6 +788,3 @@ class ExperimentHPO:
 
         return results
 
-
-e1 = Experiment("C:\\Users\\20175862\\Documents\\BEP\\wflopg code\\documents\\IEA37_CS1+2")
-e1.fast_run(max_iterations=10)
