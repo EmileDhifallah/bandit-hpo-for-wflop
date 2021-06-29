@@ -404,6 +404,4 @@ def grid_search_heatmaps(grid_df, filename, multiplier_vals, scaling_vals):
 
     plt.show()
 
-    ### updated_step_iterator() is a function that was copied from the wflopg API but altered to fit
-    ### within the hyper_ucb() function
-
+ 
